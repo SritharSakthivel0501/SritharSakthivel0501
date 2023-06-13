@@ -21,7 +21,7 @@
 
 <br />
 
-## I'm a Enthusiastic Learner!!
+## I'm a Developer !!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif" />
 
