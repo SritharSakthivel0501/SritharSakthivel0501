@@ -2,10 +2,11 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/newpen/" target="_blank">
+<a href="https://www.linkedin.com/in/srithar-sakthivel-5102b020a/" target="_blank">
   <img align="left" alt="srithar sakthivel LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/prince_of_chum_parikshit/" target="_blank">
+<a href="https://twitter.com/srithar0501" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Annamalai345" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_srikutty_eye_killer/" target="_blank">
   <img align="left" alt="sri kutty Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.hackerrank.com/princeofchum" target="_blank">
