@@ -17,7 +17,7 @@
   <img align="left" alt="sri Leatcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
   </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sritharsakthivel.)
+![](https://visitor-badge.glitch.me/badge?page_id=SritharSakthivel0501.)
 
 <br />
 
@@ -72,15 +72,15 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=sritharsakthivel&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SritharSakthivel0501&theme=gruvbox"/>
   </a>
 </p>
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=sritharsakthivel&theme=xcode" alt="srtharsakthivel" />
+<img src="https://activity-graph.herokuapp.com/graph?username=SritharSakthivel0501&theme=xcode" alt="SritharSakthivel0501" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sritharsakthivel&theme=dark" alt="sritharsakthivel" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sritharsakthivel&show_icons=true&theme=dark&count_private=true" alt="sritharsakthivel" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SritharSakthivel0501&theme=dark" alt="SritharSakthivel0501" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SritharSakthivel0501&show_icons=true&theme=dark&count_private=true" alt="SritharSakthivel0501" />
 </p>
