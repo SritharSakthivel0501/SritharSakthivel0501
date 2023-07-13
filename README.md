@@ -76,10 +76,9 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=SritharSakthivel0501&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SritharSakthivel0501&theme=gruvbox"/>
   </a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=SritharSakthivel0501&theme=xcode" alt="SritharSakthivel0501" />
 </p>
