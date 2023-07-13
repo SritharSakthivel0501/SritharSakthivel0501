@@ -50,7 +50,7 @@
 <h3>Development tools and frameworks:</h3>
 <p>
 <img src="https://github.com/annshiv/annshiv/blob/main/Materials/react.gif" alt="html5" width="50" height="60"/> 
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/jquery.gif" alt="css3" width="50" height="60"/>
+<img src="https://github.com/annshiv/annshiv/blob/main/Materials/php.gif" alt="css3" width="50" height="60"/>
 <img src="https://github.com/annshiv/annshiv/blob/main/Materials/bootstrap.gif" alt="bootstrap" width="50" height="60"/> 
 <img src="https://github.com/annshiv/annshiv/blob/main/Materials/angular.png" alt="angular" height="60"/>
 <img src="https://github.com/annshiv/annshiv/blob/main/Materials/django.png" alt="django" height="60"/>
