@@ -13,7 +13,7 @@
   <img align="left" alt="srithar sakthivel Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-<a href="https://leetcode.com/PrinceOfChum/" target="_blank">
+<a href="https://leetcode.com/SritharSakthivel0501/" target="_blank">
   <img align="left" alt="sri Leatcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
   </a>
 
