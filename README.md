@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/_srikutty_eye_killer/" target="_blank">
   <img align="left" alt="sri kutty Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.hackerrank.com/princeofchum" target="_blank">
+<a href="https://www.hackerrank.com/sritharsakthivel?hr_r=1" target="_blank">
   <img align="left" alt="srithar sakthivel Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
